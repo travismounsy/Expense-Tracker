@@ -7,6 +7,7 @@
     <list default="true" id="df97e141-d33d-4f6f-b9e4-50167ad8fbc1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/expenseExceptions/ExpenseExceptions.java" afterDir="false" />
     </list>
+    <list default="true" id="df97e141-d33d-4f6f-b9e4-50167ad8fbc1" name="Changes" comment="Added project structure.&#10;main package contains; model, view, controller, ExpenseExceptions&#10;test package;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +38,21 @@
   "selectedUrlAndAccountId": {
     "url": "https://github.com/travismounsy/Expense-Tracker.git",
     "accountId": "e6f1ffea-d825-458e-a8d6-4dbe43b472c9"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "travismounsy",
+    "repository": "Expense-Tracker"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -83,10 +97,24 @@
       <option name="presentableId" value="Default" />
       <updated>1736650320803</updated>
       <workItem from="1736650322041" duration="712000" />
+      <workItem from="1736650322041" duration="952000" />
     </task>
+    <task id="LOCAL-00001" summary="Added project structure.&#10;main package contains; model, view, controller, ExpenseExceptions&#10;test package;">
+      <option name="closed" value="true" />
+      <created>1736651125444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736651125444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added project structure.&#10;main package contains; model, view, controller, ExpenseExceptions&#10;test package;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added project structure.&#10;main package contains; model, view, controller, ExpenseExceptions&#10;test package;" />
   </component>
 </project>
